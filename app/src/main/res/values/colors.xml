@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="primary">#E43F3F</color>
+    <color name="primary_dark">#E12929</color>
+    <color name="primary_darker">#CC1D1D</color> -->
+
+    <color name="primary">#19aaff</color>
+    <color name="primary_dark">#0e5782</color>
+    <color name="primary_darker">#0a4568</color>
+
+    <color name="accent">#FFFFFF</color>
+
+    <color name="iron">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="lightGray">#ededed</color>
+    <color name="green">#00bfa5</color>
+    <color name="deepPurple">#7c4dff</color>
+    <color name="yellow">#ffb300</color>
+    <color name="red">#E60D0D</color>
+    <color name="black">#000</color>
+    <color name="facebookBlue">#35538f</color>
+
+</resources>
